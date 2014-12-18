@@ -1,0 +1,15 @@
+.container {
+	width: 400px;
+	padding:10px;
+}
+header {
+	padding:30px;
+	background:#eee;
+	border-radius:6px;
+	border:1px solid #ddd;
+	margin-bottom:20px;
+}
+
+code {
+	display: block;
+}
